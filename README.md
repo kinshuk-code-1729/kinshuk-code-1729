@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Kinshuk Banerjee ✨😃</h1>
 <h3 align="center">I'm pursuing my B.TECH in Computer Science & Engineering from Global Engineering College,Jabalpur.</h3>
+
+
 - 🔭 I’m currently working **to manage my time and be productive.**
 
 - 🌱 I’m currently learning **C/C++,AIML in python from AWS Academy Machine Learning Foundations [7108].**
