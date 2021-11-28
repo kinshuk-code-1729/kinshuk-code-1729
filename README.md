@@ -14,6 +14,7 @@
 
 - 📫 How to reach me : 
 - <a href="mailto:kinshuk2002.king@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+- <a href="https://twitter.com/kinshukbanerje8"><img src="https://img.shields.io/twitter/url?logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fintent%2Ffollow%3Fscreen_name%3DKinshukBanerje8"></a>
 - <a href="https://github.com/kinshukbanerjee899" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -27,6 +28,7 @@
 ## ✨Connect with me :
 <p align="left">
 <a href="https://www.linkedin.com/in/kinshuk-banerjee-117b90206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kinshuk banerjee" height="30" width="40" /></a>
+<a href="https://twitter.com/intent/follow?screen_name=KinshukBanerje8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kinshukbanerje8" height="30" width="40" /></a>
 <a href="https://www.facebook.com/kinshuk.banerjee.90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kinshuk banerjee" height="30" width="40" /></a>
 <a href="https://instagram.com/insane_engineer_1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insane_engineer_1729" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UC3e_6PffhiSZtemQ5qkRe6w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kinshuk banerjee" height="30" width="40" /></a>
