@@ -6,7 +6,7 @@
 ## About Me ✍
 - 🔭 I’m currently working **to manage my time and be productive.**
 
-- 🌱 I’m currently learning **C/C++,AIML in python from AWS Academy Machine Learning Foundations [7108].**
+- 🌱 I’m currently learning **C/C++ & I've learnt AIML in python from AWS Academy Machine Learning Foundations.**
 
 - 👯 I’m looking to collaborate on **on some beginner AIML related Projects**
 
