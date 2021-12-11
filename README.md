@@ -19,6 +19,15 @@
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
+## ✨ Certifications ✨ :
+
+<!--START_SECTION:badges-->
+
+[![AWS Academy Graduate - AWS Academy Cloud Foundations](https://images.credly.com/size/110x110/images/ead0ef07-6071-4c96-a79f-27bb32c4be93/AWS-Academy-Graduate-Badge-Foundational.png)](https://www.credly.com/badges/957561ad-7654-40e0-bc8c-2a796d52fc99/public_url "AWS Academy Graduate - AWS Academy Cloud Foundations")
+[![AWS Academy Graduate - AWS Academy Machine Learning Foundations](https://images.credly.com/size/110x110/images/ead0ef07-6071-4c96-a79f-27bb32c4be93/AWS-Academy-Graduate-Badge-Foundational.png)](https://www.credly.com/badges/4cfc91dd-8126-4606-9bea-08a623ae4d80/public_url "AWS Academy Graduate - AWS Academy Machine Learning Foundations")
+
+<!--END_SECTION:badges-->
+
 ## ❤ Visitors Count 🗠 :
 <p align = "center">
   <img src="https://profile-counter.glitch.me/kinshukbanerjee899/count.svg" />
