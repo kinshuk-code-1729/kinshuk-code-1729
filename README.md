@@ -1,8 +1,7 @@
 <h1 align="center">Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am <a href="https://www.linkedin.com/in/kinshuk-banerjee-117b90206/">Kinshuk Banerjee</a> ✨😃</h1>
 <h3 align="center">I'm pursuing my B.Tech in Computer Science & Engineering from Global Engineering College,Jabalpur.</h3>
 
-<img align='centre' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  width="200%" height="500%"   alt="Coder" class="center">
-
+![Kinshuk](https://user-images.githubusercontent.com/90320839/146675569-70a8a11a-7563-4bf5-9d7e-1ddb5c086c9b.jpeg)
 ## About Me ✍
 - 🔭 I’m currently working **to manage my time and be productive.**
 
