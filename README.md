@@ -25,7 +25,7 @@
 
 [![AWS Academy Graduate - AWS Academy Cloud Foundations](https://images.credly.com/size/110x110/images/ead0ef07-6071-4c96-a79f-27bb32c4be93/AWS-Academy-Graduate-Badge-Foundational.png)](https://www.credly.com/badges/957561ad-7654-40e0-bc8c-2a796d52fc99/public_url "AWS Academy Graduate - AWS Academy Cloud Foundations")
 [![AWS Academy Graduate - AWS Academy Machine Learning Foundations](https://images.credly.com/size/110x110/images/ead0ef07-6071-4c96-a79f-27bb32c4be93/AWS-Academy-Graduate-Badge-Foundational.png)](https://www.credly.com/badges/4cfc91dd-8126-4606-9bea-08a623ae4d80/public_url "AWS Academy Graduate - AWS Academy Machine Learning Foundations")
-
+[![Introduction to Packet Tracer](https://images.credly.com/size/110x110/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png)](https://www.credly.com/badges/b2604db7-dadc-423b-83b6-7d8dfae78a88/public_url")
 <!--END_SECTION:badges-->
 
 ## ❤ Visitors Count 🗠 :
