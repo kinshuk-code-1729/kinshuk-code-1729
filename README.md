@@ -68,4 +68,6 @@
   
 ![Metrics](https://metrics.lecoq.io/kinshukbanerjee899?template=classic&languages=1&people=1&achievements=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FCalcutta)
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="200%" height="500%"   alt="Coder" class="center">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kinshukbanerjee899&label=VISITORS&color=0e75b6&style=flat" alt="kinshukbanerjee899" /> </p>
+
+## Watch a 🐍 eating my contribution graph
+![snake gif](https://github.com/kinshukbanerjee899/kinshukbanerjee899/blob/output/github-contribution-grid-snake.gif)
