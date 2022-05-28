@@ -13,7 +13,7 @@
 
 - 📫 How to reach me : 
 - <a href="mailto:kinshuk2002.king@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-- [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/kinshukbanerje8)
+- [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Kinshuk_1729)
 - [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kinshuk-banerjee-117b90206/)
 - <a href="https://github.com/kinshuk-code-1729" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -38,7 +38,7 @@
 ## ✨Connect with me :
 <p align="left">
 <a href="https://www.linkedin.com/in/kinshuk-banerjee-117b90206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kinshuk banerjee" height="30" width="40" /></a>
-<a href="https://twitter.com/intent/follow?screen_name=KinshukBanerje8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kinshukbanerje8" height="30" width="40" /></a>
+<a href="https://twitter.com/intent/follow?screen_name=Kinshuk_1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kinshuk_1729" height="30" width="40" /></a>
 <a href="https://www.facebook.com/kinshuk.banerjee.90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kinshuk banerjee" height="30" width="40" /></a>
 <a href="https://instagram.com/insane_engineer_1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insane_engineer_1729" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UC3e_6PffhiSZtemQ5qkRe6w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kinshuk banerjee" height="30" width="40" /></a>
