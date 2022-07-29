@@ -52,6 +52,7 @@
 
 ## 🛠Technological Stack 🛠:
 ![Python](https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python&logoColor=007ACC)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-ffffff?style=flat&logo=jupyter&logoColor=007ACC)&nbsp;
 ![C](https://img.shields.io/badge/-C-ffffff?style=flat&logo=cplusplus&logoColor=007ACC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-ffffff?style=flat&logo=cplusplus&logoColor=007ACC)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=flat&logo=mysql)&nbsp;
