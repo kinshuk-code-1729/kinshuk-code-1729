@@ -50,6 +50,19 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kinshuk-code-1729&theme=dark&show_icons=true&locale=en&layout=compact" alt="kinshuk-code-1729" /></p>
 
+## 🛠Technological Stack 🛠:
+![Python](https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python&logoColor=007ACC)&nbsp;
+![C](https://img.shields.io/badge/-C-ffffff?style=flat&logo=cplusplus&logoColor=007ACC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-ffffff?style=flat&logo=cplusplus&logoColor=007ACC)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=flat&logo=mysql)&nbsp;
+![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-ffffff?style=flat&logo=github&logoColor=000000)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ffffff?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-ffffff?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-ffffff?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat&logo=javascript&logoColor=fad63d)&nbsp;
+
+
 ## 😎 My Github Stats 📈 : 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kinshuk-code-1729&theme=dark&show_icons=true&locale=en" alt="kinshuk-code-1729" /></p>
 
