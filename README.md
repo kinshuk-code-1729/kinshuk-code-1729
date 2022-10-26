@@ -1,15 +1,15 @@
 <h1 align="center">Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am <a href="https://www.linkedin.com/in/kinshuk-banerjee-117b90206/">Kinshuk Banerjee</a> ✨😃</h1>
-<h3 align="center">I'm pursuing my B.Tech in Computer Science & Engineering from Global Engineering College,Jabalpur.</h3>
+<h3 align="center">I'm pursuing my B.Tech in C.S.E. from Baderia Global Institute of Engineering & Management , Jabalpur.</h3>
 
 ![Kinshuk](https://user-images.githubusercontent.com/90320839/146675569-70a8a11a-7563-4bf5-9d7e-1ddb5c086c9b.jpeg)
 ## About Me ✍
 - 🔭 I’m currently working **to manage my time and be productive.**
 
-- 🌱 I’m currently learning **Java and Python.**
+- 🌱 I’m currently learning **Web Development.**
 
 - 👯 I’m looking to collaborate on **real-world Projects.**
 
-- 👀 I’m interested in **Artificial Intelligence & Machine Learning , Cloud Computing , Cybersecurity and Open Source Development.**
+- 👀 I’m interested in **Artificial Intelligence & Machine Learning , Android Development , Web Development and Open Source Development.**
 
 - 📫 How to reach me : 
 - <a href="mailto:kinshuk2002.king@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
