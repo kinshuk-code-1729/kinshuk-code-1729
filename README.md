@@ -23,8 +23,8 @@
 
 <!--START_SECTION:badges-->
 
-[![AWS Academy Graduate - AWS Academy Cloud Foundations](https://images.credly.com/size/110x110/images/ead0ef07-6071-4c96-a79f-27bb32c4be93/AWS-Academy-Graduate-Badge-Foundational.png)](https://www.credly.com/badges/957561ad-7654-40e0-bc8c-2a796d52fc99/public_url "AWS Academy Graduate - AWS Academy Cloud Foundations")
-[![AWS Academy Graduate - AWS Academy Machine Learning Foundations](https://images.credly.com/size/110x110/images/ead0ef07-6071-4c96-a79f-27bb32c4be93/AWS-Academy-Graduate-Badge-Foundational.png)](https://www.credly.com/badges/4cfc91dd-8126-4606-9bea-08a623ae4d80/public_url "AWS Academy Graduate - AWS Academy Machine Learning Foundations")
+[![AWS Academy Graduate - AWS Academy Cloud Foundations](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](https://www.credly.com/badges/957561ad-7654-40e0-bc8c-2a796d52fc99/public_url "AWS Academy Graduate - AWS Academy Cloud Foundations")
+[![AWS Academy Graduate - AWS Academy Machine Learning Foundations](https://images.credly.com/size/110x110/images/254b883a-44a3-4cec-b6f2-946a80522b39/image.png)](https://www.credly.com/badges/4cfc91dd-8126-4606-9bea-08a623ae4d80/public_url "AWS Academy Graduate - AWS Academy Machine Learning Foundations")
 [![Introduction to Packet Tracer](https://images.credly.com/size/110x110/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png)](https://www.credly.com/badges/b2604db7-dadc-423b-83b6-7d8dfae78a88/public_url")
 [![Learnathon2022__Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/ce55999c-d837-4da9-a7a8-3c2fdd10255c/public_url "Learnathon2022__Introduction to Cybersecurity")
 
@@ -84,5 +84,4 @@
   
 ![Metrics](https://metrics.lecoq.io/kinshuk-code-1729?template=classic&languages=1&people=1&achievements=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FCalcutta)
 
-## 🔥 Watch a 🐍 eating my Contribution Graph 😎 :
-![snake gif](https://github.com/kinshuk-code-1729/kinshuk-code-1729/blob/output/github-contribution-grid-snake.gif)
+<!-- ## 🔥 Watch a 🐍 eating my Contribution Graph 😎 : -->
