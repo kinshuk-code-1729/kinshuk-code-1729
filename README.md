@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **real-world Projects.**
 
-- 👀 I’m interested in **Artificial Intelligence & Machine Learning , Android Development , Web Development and Open Source Development.**
+- 👀 I’m interested in **Artificial Intelligence & Machine Learning , Full Stack Web Development and Open Source Development.**
 
 - 📫 How to reach me : 
 - <a href="mailto:kinshuk2002.king@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
