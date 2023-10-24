@@ -68,7 +68,7 @@
 
 
 ## 😎 My Github Stats 📈 : 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kinshuk-code-1729&theme=dark&show_icons=true&locale=en" alt="kinshuk-code-1729" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kinshuk-code-1729&theme=highcontrast&show_icons=true&locale=en" alt="kinshuk-code-1729" /></p>
 
 ## 🥇 GitHub Trophies 🥇: 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=kinshuk-code-1729&theme=gruvbox"/>
