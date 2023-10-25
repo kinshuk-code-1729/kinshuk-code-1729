@@ -1,4 +1,7 @@
 <h1 align="center">Hey there 👋🏻, <a href="https://www.linkedin.com/in/kinshuk-banerjee1729/">Kinshuk Banerjee</a> welcomes you here🤩🤩</h1>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;Have+a+look+around+it+😊!&font=Fira%20Code&color=%23D62F79&center=true&width=350&height=30">
+</p>
 <h3 align="center">I'm pursuing my Bachelors Degree in Computer Science & Engineering from Baderia Global Institute of Engineering & Management , Jabalpur.</h3>
 
 ![Kinshuk](https://user-images.githubusercontent.com/90320839/146675569-70a8a11a-7563-4bf5-9d7e-1ddb5c086c9b.jpeg)
@@ -69,6 +72,9 @@
 
 ## 😎 My Github Stats 📈 : 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kinshuk-code-1729&theme=highcontrast&show_icons=true&locale=en" alt="kinshuk-code-1729" /></p>
+
+## 😎 My GitHub Unwrapped 2022 🌟:
+https://github.com/kinshuk-code-1729/kinshuk-code-1729/assets/90320839/240f2b53-86b4-48db-aea9-94ea6bc8db19
 
 ## 🥇 GitHub Trophies 🥇: 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=kinshuk-code-1729&theme=radical"/>
