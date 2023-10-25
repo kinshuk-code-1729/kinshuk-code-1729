@@ -5,7 +5,9 @@
 <h3 align="center">I'm pursuing my Bachelors Degree in Computer Science & Engineering from Baderia Global Institute of Engineering & Management , Jabalpur.</h3>
 
 ![Kinshuk](https://user-images.githubusercontent.com/90320839/146675569-70a8a11a-7563-4bf5-9d7e-1ddb5c086c9b.jpeg)
-## About Me ✍
+
+<details>
+<summary> <h2>About Me ✍</h2></summary>
 - 🔭 I’m currently working **to manage my time and be productive.**
 
 - 🌱 I’m currently learning **Web Development.**
@@ -13,6 +15,7 @@
 - 👯 I’m looking to collaborate on **real-world Projects.**
 
 - 👀 I’m interested in **Artificial Intelligence & Machine Learning , Full Stack Web Development and Open Source Development.**
+</details>
 
 - 📫 How to reach me : 
 - <a href="mailto:kinshuk2002.king@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -91,10 +94,12 @@ https://github.com/kinshuk-code-1729/kinshuk-code-1729/assets/90320839/240f2b53-
 
 <!-- [![wakatime](https://wakatime.com/badge/user/f54b086e-b125-4c3f-b297-4ef53b6d1e7b.svg)](https://wakatime.com/@f54b086e-b125-4c3f-b297-4ef53b6d1e7b) -->
 
-## ✨ Profile Metrics ✨ :
-  
+<details>
+<summary> <h2>✨ Profile Metrics ✨ :</h2> </summary>
+    
 ![Metrics](https://metrics.lecoq.io/kinshuk-code-1729?template=classic&languages=1&people=1&achievements=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FCalcutta)
 
+</details>
 <!-- ## 🔥 Watch a Snake 🐍 eating my Contribution Graph 😎 :
 
 ![snake gif](https://github.com/kinshuk-code-1729/kinshuk-code-1729/blob/output/github-contribution-grid-snake.gif)
