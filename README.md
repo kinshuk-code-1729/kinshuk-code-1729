@@ -79,6 +79,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-ffffff?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat&logo=javascript&logoColor=fad63d)&nbsp;
 
+## 📈 My contribution Graph ✨:
+<a href="#"><img alt="Kinshuk's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kinshuk-code-1729&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ## 😎 My Github Stats 📈 : 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kinshuk-code-1729&theme=highcontrast&show_icons=true&locale=en" alt="kinshuk-code-1729" /></p>
