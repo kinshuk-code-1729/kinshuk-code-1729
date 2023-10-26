@@ -1,4 +1,6 @@
-<h1 align="center">Hey there 👋🏻, <a href="https://www.linkedin.com/in/kinshuk-banerjee1729/">Kinshuk Banerjee</a> welcomes you here🤩🤩</h1>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=35&pause=1000&color=14D8DB&width=550&height=100&lines=Hi+there👋%2C+I'm+Kinshuk+Banerjee+!" alt="Typing SVG" />
+</div>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;Have+a+look+around+it+😊!&font=Fira%20Code&color=%23D62F79&center=true&width=350&height=30">
 </p>
