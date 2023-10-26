@@ -106,6 +106,13 @@ https://github.com/kinshuk-code-1729/kinshuk-code-1729/assets/90320839/240f2b53-
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
 </p>
 <br/>
+<p>
+    <div align="center">
+<a href="https://github.com/kinshuk-code-1729">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinshuk-code-1729&theme=radical" />
+  </a>
+</div>
+</p>
 
 <!-- [![wakatime](https://wakatime.com/badge/user/f54b086e-b125-4c3f-b297-4ef53b6d1e7b.svg)](https://wakatime.com/@f54b086e-b125-4c3f-b297-4ef53b6d1e7b) -->
 
