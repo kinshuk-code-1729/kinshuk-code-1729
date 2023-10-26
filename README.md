@@ -94,7 +94,7 @@
 ## 😎 My GitHub Unwrapped 2022 🌟:
 https://github.com/kinshuk-code-1729/kinshuk-code-1729/assets/90320839/240f2b53-86b4-48db-aea9-94ea6bc8db19
 
-## 🥇 GitHub Trophies 🥇: 
+## 🏆 GitHub Trophies 🏆 : 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=kinshuk-code-1729&theme=radical"/>
 </a>
 </p>
