@@ -82,6 +82,8 @@
 ## 📈 My contribution Graph ✨:
 <a href="#"><img alt="Kinshuk's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kinshuk-code-1729&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+[![Kinshuk's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bastndev&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/kinshuk-code-1729/github-readme-activity-graph)
+
 ## 😎 My Github Stats 📈 : 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kinshuk-code-1729&theme=highcontrast&show_icons=true&locale=en" alt="kinshuk-code-1729" /></p>
 
