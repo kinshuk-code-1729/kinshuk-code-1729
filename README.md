@@ -45,7 +45,7 @@
 <!--END_SECTION:badges-->
 
 ## ❤ Visitors Count 🗠 :
-<p align = "center">
+<p align = "left">
   <img src="https://profile-counter.glitch.me/kinshuk-code-1729/count.svg" />
 </p>
 
