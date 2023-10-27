@@ -49,6 +49,10 @@
   <img src="https://profile-counter.glitch.me/kinshuk-code-1729/count.svg" />
 </p>
 
+
+![](https://img.shields.io/github/followers/kinshuk-code-1729?style=social)
+![](https://img.shields.io/github/stars/kinshuk-code-1729?style=social)
+
 ## ✨Connect with me :
 <p align="left">
 <a href="https://www.linkedin.com/in/kinshuk-banerjee1729/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kinshuk banerjee" height="30" width="40" /></a>
