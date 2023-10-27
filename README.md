@@ -52,6 +52,7 @@
 
 ![](https://img.shields.io/github/followers/kinshuk-code-1729?style=social)
 ![](https://img.shields.io/github/stars/kinshuk-code-1729?style=social)
+[![committers.top badge](https://user-badge.committers.top/india/kinshuk-code-1729.svg)](https://user-badge.committers.top/india/kinshuk-code-1729)
 
 ## ✨Connect with me :
 <p align="left">
