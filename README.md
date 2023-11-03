@@ -1,3 +1,5 @@
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=35&pause=1000&color=14D8DB&width=550&height=100&lines=Hi+there👋%2C+I'm+Kinshuk+Banerjee+!" alt="Typing SVG" />
 </div>
@@ -130,7 +132,6 @@ https://github.com/kinshuk-code-1729/kinshuk-code-1729/assets/90320839/240f2b53-
 ![Metrics](https://metrics.lecoq.io/kinshuk-code-1729?template=classic&languages=1&people=1&achievements=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FCalcutta)
 
 </details>
-<!-- ## 🔥 Watch a Snake 🐍 eating my Contribution Graph 😎 :
 
-![snake gif](https://github.com/kinshuk-code-1729/kinshuk-code-1729/blob/output/github-contribution-grid-snake.gif)
--->
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
