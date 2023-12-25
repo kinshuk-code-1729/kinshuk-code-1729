@@ -101,6 +101,9 @@
 ## 😎 My GitHub Unwrapped 2022 🌟:
 https://github.com/kinshuk-code-1729/kinshuk-code-1729/assets/90320839/240f2b53-86b4-48db-aea9-94ea6bc8db19
 
+## 🤩 My GitHub Unwrapped 2023 🤩🌟:
+https://github.com/kinshuk-code-1729/kinshuk-code-1729/assets/90320839/46a3dcf4-2b67-406c-a1ae-df28f0185f26
+
 ## 🌟 Hacktoberbest 2023 Achievements 🤩:
 [![An image of @kinshukcode1729's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kinshukcode1729)](https://holopin.io/@kinshukcode1729)
 
