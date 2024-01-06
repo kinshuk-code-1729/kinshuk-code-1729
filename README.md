@@ -136,5 +136,8 @@ https://github.com/kinshuk-code-1729/kinshuk-code-1729/assets/90320839/46a3dcf4-
 
 </details>
 
+<!-- Thank you moving text animation-->
+<img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
