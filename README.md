@@ -77,9 +77,9 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /></a>
 </p>
 </details>
-<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kinshuk-code-1729&theme=highcontrast" /></p>
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kinshuk-code-1729&theme=highcontrast"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinshuk-code-1729&theme=highcontrast&layout=pie" alt="kinshuk-code-1729" /></p>
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kinshuk-code-1729&theme=gruvbox" /></p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kinshuk-code-1729&theme=gruvbox"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinshuk-code-1729&theme=gruvbox&layout=pie" alt="kinshuk-code-1729" /></p>
 
 ## 🛠Technological Stack 🛠:
 ![Python](https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python&logoColor=007ACC)&nbsp;
@@ -100,7 +100,7 @@
 [![Kinshuk's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kinshuk-code-1729&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/kinshuk-code-1729/github-readme-activity-graph)
 
 ## 😎 My Github Stats 📈 : 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kinshuk-code-1729&theme=highcontrast&show_icons=true&locale=en" alt="kinshuk-code-1729" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kinshuk-code-1729&theme=gruvbox&show_icons=true&locale=en" alt="kinshuk-code-1729" /></p>
 
 ## 😎 My GitHub Unwrapped 2022 🌟:
 https://github.com/kinshuk-code-1729/kinshuk-code-1729/assets/90320839/240f2b53-86b4-48db-aea9-94ea6bc8db19
@@ -112,21 +112,21 @@ https://github.com/kinshuk-code-1729/kinshuk-code-1729/assets/90320839/46a3dcf4-
 [![An image of @kinshukcode1729's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kinshukcode1729)](https://holopin.io/@kinshukcode1729)
 
 ## 🏆 GitHub Trophies 🏆 : 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=kinshuk-code-1729&theme=radical"/>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=kinshuk-code-1729&theme=gruvbox"/>
 </a>
 </p>
 
 ## 🔥 My contribution :
 <p align="center"><a>
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kinshuk-code-1729&theme=radical"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kinshuk-code-1729&theme=gruvbox"/>
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
 </p>
 <br/>
 <p>
     <div align="center">
 <a href="https://github.com/kinshuk-code-1729">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinshuk-code-1729&theme=radical" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinshuk-code-1729&theme=gruvbox" />
   </a>
 </div>
 </p>
