@@ -51,11 +51,6 @@
   <img src="https://profile-counter.glitch.me/kinshuk-code-1729/count.svg" />
 </p>
 
-
-![](https://img.shields.io/github/followers/kinshuk-code-1729?style=social)
-![](https://img.shields.io/github/stars/kinshuk-code-1729?style=social)
-[![committers.top badge](https://user-badge.committers.top/india/kinshuk-code-1729.svg)](https://user-badge.committers.top/india/kinshuk-code-1729)
-
 ## ✨Connect with me :
 <p align="left">
 <a href="https://www.linkedin.com/in/kinshuk-banerjee1729/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kinshuk banerjee" height="30" width="40" /></a>
@@ -101,6 +96,10 @@
 
 ## 😎 My Github Stats 📈 : 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kinshuk-code-1729&theme=gruvbox&show_icons=true&locale=en" alt="kinshuk-code-1729" /></p>
+
+![](https://img.shields.io/github/followers/kinshuk-code-1729?style=social)
+![](https://img.shields.io/github/stars/kinshuk-code-1729?style=social)
+[![committers.top badge](https://user-badge.committers.top/india/kinshuk-code-1729.svg)](https://user-badge.committers.top/india/kinshuk-code-1729)
 
 ## 😎 My GitHub Unwrapped 2022 🌟:
 https://github.com/kinshuk-code-1729/kinshuk-code-1729/assets/90320839/240f2b53-86b4-48db-aea9-94ea6bc8db19
