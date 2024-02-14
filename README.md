@@ -65,6 +65,7 @@
 <a href="https://www.leetcode.com/kinshuk-code-1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kinshuk-code-1729" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kinshuk_code_1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kinshuk_code_1729" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kinshuk_code" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/kinshuk_code" height="30" width="40" /></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/2df7da12-fe4f-4835-9253-350a993779c7" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="30"/> </a>
 </p>
 
 <details open>
