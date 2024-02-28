@@ -140,6 +140,11 @@ https://github.com/kinshuk-code-1729/kinshuk-code-1729/assets/90320839/46a3dcf4-
 
 </details>-->
 
+## 🌟 Watch a snake 🐍 eating my contribution graph :
+![github contribution grid snake animation](https://raw.githubusercontent.com/kinshuk-code-1729/kinshuk-code-1729/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/kinshuk-code-1729/kinshuk-code-1729/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
 <!-- Thank you moving text animation-->
 <img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
