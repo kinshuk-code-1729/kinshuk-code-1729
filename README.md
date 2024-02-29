@@ -92,9 +92,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat&logo=javascript&logoColor=fad63d)&nbsp;
 
 ## 📈 My contribution Graph ✨:
-<!-- <a href="#"><img alt="Kinshuk's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kinshuk-code-1729&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
+<a href="#"><img alt="Kinshuk's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kinshuk-code-1729&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-[![Kinshuk's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kinshuk-code-1729&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/kinshuk-code-1729/github-readme-activity-graph)
+<!--[![Kinshuk's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kinshuk-code-1729&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/kinshuk-code-1729/github-readme-activity-graph)-->
 
 ## 😎 My Github Stats 📈 : 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kinshuk-code-1729&theme=gruvbox&show_icons=true&locale=en" alt="kinshuk-code-1729" /></p>
@@ -102,6 +102,7 @@
 ![](https://img.shields.io/github/followers/kinshuk-code-1729?style=social)
 ![](https://img.shields.io/github/stars/kinshuk-code-1729?style=social)
 [![committers.top badge](https://user-badge.committers.top/india/kinshuk-code-1729.svg)](https://user-badge.committers.top/india/kinshuk-code-1729)
+[![wakatime](https://wakatime.com/badge/user/f54b086e-b125-4c3f-b297-4ef53b6d1e7b.svg)](https://wakatime.com/@f54b086e-b125-4c3f-b297-4ef53b6d1e7b)
 
 ## 😎 My GitHub Unwrapped 2022 🌟:
 https://github.com/kinshuk-code-1729/kinshuk-code-1729/assets/90320839/240f2b53-86b4-48db-aea9-94ea6bc8db19
@@ -132,14 +133,13 @@ https://github.com/kinshuk-code-1729/kinshuk-code-1729/assets/90320839/46a3dcf4-
 </div>
 </p>
 
-<!-- [![wakatime](https://wakatime.com/badge/user/f54b086e-b125-4c3f-b297-4ef53b6d1e7b.svg)](https://wakatime.com/@f54b086e-b125-4c3f-b297-4ef53b6d1e7b) -->
 
-<details open>
+<!--<details open>
 <summary> <h2>✨ More Details ✨ :</h2> </summary>
     
 ![Metrics](https://metrics.lecoq.io/kinshuk-code-1729?template=classic&languages=1&people=1&achievements=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FCalcutta)
 
-</details>
+</details>-->
 
 ## 🌟 Watch a snake 🐍 eating my contribution graph :
 ![github contribution grid snake animation](https://raw.githubusercontent.com/kinshuk-code-1729/kinshuk-code-1729/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
