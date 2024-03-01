@@ -83,13 +83,16 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-ffffff?style=flat&logo=jupyter&logoColor=007ACC)&nbsp;
 ![C](https://img.shields.io/badge/-C-ffffff?style=flat&logo=cplusplus&logoColor=007ACC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-ffffff?style=flat&logo=cplusplus&logoColor=007ACC)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=flat&logo=mysql)&nbsp;
-![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&logo=git)&nbsp;
+![MySQL](https://img.shields.io/badge/Mysql-282C34?logo=Mysql&logoColor=F7DF1E)&nbsp;
+![Git](https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-ffffff?style=flat&logo=github&logoColor=000000)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ffffff?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-ffffff?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-ffffff?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat&logo=javascript&logoColor=fad63d)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E)&nbsp;
+![React](https://img.shields.io/badge/React-282C34?logo=React&logoColor=61DBFB)&nbsp;
+![Django](https://img.shields.io/badge/Django-282C34?logo=Django&logoColor=41B883)&nbsp;
+
 
 ## 📈 My contribution Graph ✨:
 <a href="#"><img alt="Kinshuk's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kinshuk-code-1729&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
