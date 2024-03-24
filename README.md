@@ -74,9 +74,9 @@
 </p>
 </details>
 
-<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kinshuk-code-1729&theme=gruvbox" /></p>
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kinshuk-code-1729&theme=gruvbox"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinshuk-code-1729&theme=gruvbox&layout=pie" alt="kinshuk-code-1729" /></p>
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kinshuk-code-1729&theme=highcontrast" /></p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kinshuk-code-1729&theme=highcontrast"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinshuk-code-1729&theme=highcontrast&layout=pie" alt="kinshuk-code-1729" /></p>
 
 ## 🛠Technological Stack 🛠:
 ![Python](https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python&logoColor=007ACC)&nbsp;
@@ -95,12 +95,12 @@
 
 
 ## 📈 My contribution Graph ✨:
-<a href="#"><img alt="Kinshuk's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kinshuk-code-1729&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="#"><img alt="Kinshuk's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kinshuk-code-1729&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>-->
 
-<!--[![Kinshuk's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kinshuk-code-1729&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/kinshuk-code-1729/github-readme-activity-graph)-->
+[![Kinshuk's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kinshuk-code-1729&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/kinshuk-code-1729/github-readme-activity-graph)
 
 ## 😎 My Github Stats 📈 : 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kinshuk-code-1729&theme=gruvbox&show_icons=true&locale=en" alt="kinshuk-code-1729" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kinshuk-code-1729&theme=maroongold&show_icons=true&locale=en" alt="kinshuk-code-1729" /></p>
 
 ![](https://img.shields.io/github/followers/kinshuk-code-1729?style=social)
 ![](https://img.shields.io/github/stars/kinshuk-code-1729?style=social)
@@ -117,7 +117,7 @@ https://github.com/kinshuk-code-1729/kinshuk-code-1729/assets/90320839/46a3dcf4-
 [![An image of @kinshukcode1729's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kinshukcode1729)](https://holopin.io/@kinshukcode1729)
 
 ## 🏆 GitHub Trophies 🏆 : 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=kinshuk-code-1729&theme=gruvbox"/>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=kinshuk-code-1729&theme=radical"/>
 </a>
 </p>
 
@@ -131,18 +131,21 @@ https://github.com/kinshuk-code-1729/kinshuk-code-1729/assets/90320839/46a3dcf4-
 <p>
     <div align="center">
 <a href="https://github.com/kinshuk-code-1729">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinshuk-code-1729&theme=gruvbox" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinshuk-code-1729&theme=outrun" />
   </a>
 </div>
 </p>
 
 
-<!--<details open>
+<details open>
 <summary> <h2>✨ More Details ✨ :</h2> </summary>
-    
-![Metrics](https://metrics.lecoq.io/kinshuk-code-1729?template=classic&languages=1&people=1&achievements=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FCalcutta)
 
-</details>-->
+![Contrib](https://github.com/kinshuk-code-1729/kinshuk-code-1729/assets/90320839/06182317-9da8-4b86-a0fa-d99056b1c598)
+
+
+<!-- ![Metrics](https://metrics.lecoq.io/kinshuk-code-1729?template=classic&languages=1&people=1&achievements=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FCalcutta)-->
+
+</details>
 
 ## 🌟 Watch a snake 🐍 eating my contribution graph :
 ![github contribution grid snake animation](https://raw.githubusercontent.com/kinshuk-code-1729/kinshuk-code-1729/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
