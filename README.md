@@ -6,20 +6,20 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;Have+a+look+around+it+😊!&font=Fira%20Code&color=%23D62F79&center=true&width=350&height=30">
 </p>
-<h3 align="center">I'm pursuing my Bachelors Degree in Computer Science & Engineering from Baderia Global Institute of Engineering & Management , Jabalpur.</h3>
+<h3 align="center">I'm a Full Stack Web Developer.</h3>
 
 ![Kinshuk](https://user-images.githubusercontent.com/90320839/146675569-70a8a11a-7563-4bf5-9d7e-1ddb5c086c9b.jpeg)
 
 <details open>
 <summary> <h2>About Me ✍</h2></summary>
     
-- 🔭 I’m currently working **to manage my time and be productive.**
+- 🔭 I’m currently working **on some projects.**
 
-- 🌱 I’m currently learning **Web Development.**
+- 🌱 I’m currently learning **MERN Stack Development.**
 
-- 👯 I’m looking to collaborate on **real-world Projects.**
+- 👯 I’m looking to collaborate on **Applications built in Springboot, Django, FastAPI and ExpressJS.**
 
-- 👀 I’m interested in **Artificial Intelligence & Machine Learning , Full Stack Web Development and Open Source Development.**
+- 👀 I’m interested in **Full Stack Web Development, Cloud Computing and DevOps.**
 </details>
 
 - 📫 How to reach me : 
@@ -44,7 +44,9 @@
 [![Introduction to Packet Tracer](https://images.credly.com/size/110x110/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png)](https://www.credly.com/badges/b2604db7-dadc-423b-83b6-7d8dfae78a88/public_url")
 [![Learnathon2022__Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/ce55999c-d837-4da9-a7a8-3c2fdd10255c/public_url "Learnathon2022__Introduction to Cybersecurity")
 [![CCNA Introduction to Networks](https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](https://www.credly.com/badges/097c2a58-ed2e-4f95-aab0-d81daf9fdb06/public_url)
+<a href="https://www.cloudskillsboost.google/public_profiles/2df7da12-fe4f-4835-9253-350a993779c7/badges/8025439" target="_blank"> <img title="Arcade Carnival" src="https://github.com/kinshuk-code-1729/kinshuk-code-1729/assets/90320839/f22eb0a5-b1bd-4bb9-901e-137941d2a9f2" height="115px" width="115px"> </a>
 <a href="https://www.cloudskillsboost.google/public_profiles/2df7da12-fe4f-4835-9253-350a993779c7/badges/9241046" target="_blank"> <img title="The Arcade Health Tech" src="https://github.com/kinshuk-code-1729/kinshuk-code-1729/assets/90320839/9a662b90-e9ff-4fc4-a4a8-b2d1a420bd54" height="115px" width="115px"> </a>
+<a href="https://www.cloudskillsboost.google/public_profiles/2df7da12-fe4f-4835-9253-350a993779c7/badges/9599875" target="_blank"> <img title="The Arcade June Speedrun" src="https://github.com/kinshuk-code-1729/kinshuk-code-1729/assets/90320839/08a8719b-de05-44a3-989e-91f41d6263cb" height="115px" width="115px"> </a>
 
 
 
