@@ -47,6 +47,7 @@
 <a href="https://www.cloudskillsboost.google/public_profiles/2df7da12-fe4f-4835-9253-350a993779c7/badges/8025439" target="_blank"> <img title="Arcade Carnival" src="https://github.com/kinshuk-code-1729/kinshuk-code-1729/assets/90320839/f22eb0a5-b1bd-4bb9-901e-137941d2a9f2" height="115px" width="115px"> </a>
 <a href="https://www.cloudskillsboost.google/public_profiles/2df7da12-fe4f-4835-9253-350a993779c7/badges/9241046" target="_blank"> <img title="The Arcade Health Tech" src="https://github.com/kinshuk-code-1729/kinshuk-code-1729/assets/90320839/9a662b90-e9ff-4fc4-a4a8-b2d1a420bd54" height="115px" width="115px"> </a>
 <a href="https://www.cloudskillsboost.google/public_profiles/2df7da12-fe4f-4835-9253-350a993779c7/badges/9599875" target="_blank"> <img title="The Arcade June Speedrun" src="https://github.com/kinshuk-code-1729/kinshuk-code-1729/assets/90320839/08a8719b-de05-44a3-989e-91f41d6263cb" height="115px" width="115px"> </a>
+<a href="https://www.credly.com/badges/52c57b02-7c27-4df9-a138-93c9d745f7ef/public_url" target="_blank"> <img title="Build a Website on Google Cloud" src="https://images.credly.com/size/110x110/images/cfcacbf1-1f76-40ad-be09-a5b057e31ebf/image.png" height="115px" width="130px"> </a>
 
 
 
