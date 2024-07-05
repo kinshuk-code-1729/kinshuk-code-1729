@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi there👋, I'm Kinshuk Banerjee !</h1> <br>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+MERN+Stack+Developer.;I+am+Full+Stack+Web+Developer.;I+am+proficient+in+BackEnd.;I+am+a+Cloud+Expert.)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+MERN+Stack+Developer.;I+am+a+Full+Stack+Web+Developer.;I+am+proficient+in+BackEnd.;I+am+a+Cloud+Expert.)
 ![Kinshuk](https://user-images.githubusercontent.com/90320839/146675569-70a8a11a-7563-4bf5-9d7e-1ddb5c086c9b.jpeg)
 
 <details open>
