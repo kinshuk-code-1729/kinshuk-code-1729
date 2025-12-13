@@ -34,9 +34,13 @@
 <!--START_SECTION:badges-->
 
 <a href="https://www.credly.com/badges/957561ad-7654-40e0-bc8c-2a796d52fc99/public_url" title="AWS Academy Graduate - AWS Academy Cloud Foundations">
-    <img src="https://github.com/user-attachments/assets/38cd925c-88ea-4776-ae0f-b1a25017c274" alt="AWS Academy Cloud Foundations" width="150" height="75" title="AWS Academy Graduate - AWS Academy Cloud Foundations">
+    <img src="https://github.com/user-attachments/assets/38cd925c-88ea-4776-ae0f-b1a25017c274" alt="AWS Academy Cloud Foundations" width="200" height="200" title="AWS Academy Graduate - AWS Academy Cloud Foundations">
 </a>
-[![AWS Academy Graduate - AWS Academy Machine Learning Foundations](https://github.com/user-attachments/assets/9fa763cb-5987-472a-9e0c-77bf49e6a46e)](https://www.credly.com/badges/4cfc91dd-8126-4606-9bea-08a623ae4d80/public_url "AWS Academy Graduate - AWS Academy Machine Learning Foundations")
+
+<a href="https://www.credly.com/badges/4cfc91dd-8126-4606-9bea-08a623ae4d80/public_url" title="AWS Academy Graduate - AWS Academy Machine Learning Foundations">
+    <img src="https://github.com/user-attachments/assets/9fa763cb-5987-472a-9e0c-77bf49e6a46e" alt="AWS Academy Graduate - AWS Academy Machine Learning Foundations" width="200" height="200" title="AWS Academy Graduate - AWS Academy Machine Learning Foundations)">
+</a>
+
 [![Introduction to Packet Tracer](https://images.credly.com/size/110x110/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png)](https://www.credly.com/badges/b2604db7-dadc-423b-83b6-7d8dfae78a88/public_url")
 [![Learnathon2022__Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/ce55999c-d837-4da9-a7a8-3c2fdd10255c/public_url "Learnathon2022__Introduction to Cybersecurity")
 [![CCNA Introduction to Networks](https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](https://www.credly.com/badges/097c2a58-ed2e-4f95-aab0-d81daf9fdb06/public_url)
