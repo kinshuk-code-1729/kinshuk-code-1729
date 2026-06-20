@@ -1,19 +1,19 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi there👋, I'm Kinshuk Banerjee !</h1> <br>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+MERN+Stack+Developer.;I+am+a+Full+Stack+Web+Developer.;I+am+proficient+in+BackEnd.;I+am+a+Cloud+Expert.)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Microservices+Developer.;I+am+a+Full+Stack+Developer.;I+am+proficient+in+troubleshooting.;I+am+a+Cloud+Enthusiast.)
 ![Kinshuk](https://user-images.githubusercontent.com/90320839/146675569-70a8a11a-7563-4bf5-9d7e-1ddb5c086c9b.jpeg)
 
 <details open>
 <summary> <h2>About Me ✍</h2></summary>
     
-- 🔭 I’m currently working **on some projects.**
+- 🔭 I’m currently working **as a enterprise application developer in TCS.**
 
-- 🌱 I’m currently learning **MERN Stack Development.**
+- 🌱 I’m currently learning **Cloud, Devops and Agentic AI Development.**
 
-- 👯 I’m looking to collaborate on **Applications built in Springboot, Django, FastAPI and ExpressJS.**
+- 👯 I’m looking to collaborate on **Azure Devops,  Automating legacy infrastructures to modernized solutions in application development domain.**
 
-- 👀 I’m interested in **Full Stack Web Development, Cloud Computing and DevOps.**
+- 👀 I’m interested in **Microservices Development, Cloud Computing and DevOps.**
 </details>
 
 - 📫 How to reach me : 
@@ -32,6 +32,10 @@
 ## ✨ Certifications ✨ :
 
 <!--START_SECTION:badges-->
+
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/Kinshuk-Banerjee-1729/652E06A868DDCF2?sharingId=562A5F6EBEFC7F34" title="Microsoft Certified: Azure Fundamentals">
+    <img src="https://github.com/user-attachments/assets/b95bce1f-8079-4d3d-bcfb-fd207bcdbab2" alt="Microsoft Certified: Azure Fundamentals" width="200" height="200" title="Microsoft Certified: Azure Fundamentals">
+</a>
 
 <a href="https://www.credly.com/badges/957561ad-7654-40e0-bc8c-2a796d52fc99/public_url" title="AWS Academy Graduate - AWS Academy Cloud Foundations">
     <img src="https://github.com/user-attachments/assets/38cd925c-88ea-4776-ae0f-b1a25017c274" alt="AWS Academy Cloud Foundations" width="200" height="200" title="AWS Academy Graduate - AWS Academy Cloud Foundations">
