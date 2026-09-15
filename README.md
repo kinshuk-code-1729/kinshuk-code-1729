@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi there👋, I'm Kinshuk Banerjee !</h1> <br>
 
@@ -56,19 +57,14 @@
 
 <!--END_SECTION:badges-->
 
-## ✨Connect with me :
+## ✨Platforms :
 <p align="left">
-<a href="https://www.linkedin.com/in/kinshuk-banerjee1729/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kinshuk banerjee" height="30" width="40" /></a>
-<a href="https://x.com/Kinshuk_1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kinshuk_1729" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@the_kinshuk_banerjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kinshukbanerjee1729" height="30" width="40" /></a>
-<a href="https://www.facebook.com/kinshuk.banerjee.90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kinshuk banerjee" height="30" width="40" /></a>
-<a href="https://instagram.com/the_kinshuk_banerjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="king_shook_1729" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/kinshuk_code1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kinshuk2002_king" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@kinshuk-code-1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kinshuk-code-1729" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kinshuk-code-1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kinshuk-code-1729" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kinshuk_code_1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kinshuk_code_1729" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kinshuk_1729" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kinshuk_1729" height="30" width="40" /></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/2df7da12-fe4f-4835-9253-350a993779c7" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="30"/> </a>
+<!--<a href="https://www.cloudskillsboost.google/public_profiles/2df7da12-fe4f-4835-9253-350a993779c7" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> -->
 </p>
 
 ## 🔥 Languages and Tools :
@@ -77,64 +73,118 @@
 </p>
 
 ## 🛠Technological Stack 🛠:
-![Python](https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python&logoColor=007ACC)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-ffffff?style=flat&logo=jupyter&logoColor=007ACC)&nbsp;
-![C](https://img.shields.io/badge/-C-ffffff?style=flat&logo=cplusplus&logoColor=007ACC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-ffffff?style=flat&logo=cplusplus&logoColor=007ACC)&nbsp;
-![MySQL](https://img.shields.io/badge/Mysql-282C34?logo=Mysql&logoColor=F7DF1E)&nbsp;
-![Git](https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-ffffff?style=flat&logo=github&logoColor=000000)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E)&nbsp;
-![React](https://img.shields.io/badge/React-282C34?logo=React&logoColor=61DBFB)&nbsp;
-![Django](https://img.shields.io/badge/Django-282C34?logo=Django&logoColor=41B883)&nbsp;
-
-
-## 📈 My contribution Graph ✨:
-<!-- <a href="#"><img alt="Kinshuk's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kinshuk-code-1729&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>-->
-
-[![Kinshuk's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kinshuk-code-1729&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/kinshuk-code-1729/github-readme-activity-graph)
+[![Bruno](https://img.shields.io/badge/Bruno-F4AA41?logo=Bruno&logoColor=black)](#)
+[![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)](#)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
+[![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
+[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
+[![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)](#)
+[![Qwen](https://custom-icon-badges.demolab.com/badge/Qwen-605CEC?logo=qwen&logoColor=fff)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
+[![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](#)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+[![AWS Lambda](https://custom-icon-badges.demolab.com/badge/AWS%20Lambda-%23FF9900.svg?logo=aws-lambda&logoColor=white)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
+[![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](#)
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
+[![SonarQube Cloud](https://img.shields.io/badge/SonarQube%20Cloud-126ED3?logo=sonarqubecloud&logoColor=fff)](#)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor)](#)
+[![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
+[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
+[![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#)
+[![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)](#)
+[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
+[![Windsurf](https://img.shields.io/badge/Windsurf-0B100F?logo=windsurf&logoColor=fff)](#)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
+[![Azure DevOps](https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff)](#)
+[![Azure Functions](https://custom-icon-badges.demolab.com/badge/Azure%20Functions-0078D7?logo=azure-functions&logoColor=fff)](#)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
+[![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#)
+[![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)](#)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
+[![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff)](#)
+[![Babel](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=000)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
+[![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)](#)
+[![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=fff)](#)
+[![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
+[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=Pydantic&logoColor=white)](#)
+[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
+[![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+[![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=fff)](#)
+[![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)](#)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-cd2355.svg?logo=raspberrypi)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
+[![CentOS](https://img.shields.io/badge/CentOS-A14F8C?logo=centos&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)](#)
+[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)](#)
+[![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)
+[![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
 
 ## 😎 My Github Stats 📈 : 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinshuk-code-1729&layout=compact&theme=omni" alt=kinshuk-code-1729 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=kinshuk-code-1729&show_icons=true&locale=en&theme=omni" alt="kinshuk-code-1729" /></p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align="center">
 <a href="https://github.com/kinshuk-code-1729">
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kinshuk-code-1729&theme=2077" height="180em" />    
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kinshuk-code-1729&theme=2077" height="180em" />
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kinshuk-code-1729&theme=2077" height="180em" />
-<br><br>
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kinshuk-code-1729&theme=2077" height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kinshuk-code-1729&theme=2077" height="180em" />
+<br>
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kinshuk-code-1729&theme=2077" height="180em" />
+<br>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinshuk-code-1729&theme=2077" height="180em" />
-</div>
     
-<!-- ## ❤ Other Stats 🗠 :
-<p align = "left">
-  <img src="https://profile-counter.glitch.me/kinshuk-code-1729/count.svg" />
-</p>
+## ❤ Other Stats 🗠 :
 
 ![](https://img.shields.io/github/followers/kinshuk-code-1729?style=social)
 ![](https://img.shields.io/github/stars/kinshuk-code-1729?style=social)
-[![committers.top badge](https://user-badge.committers.top/india/kinshuk-code-1729.svg)](https://user-badge.committers.top/india/kinshuk-code-1729)
 [![wakatime](https://wakatime.com/badge/user/f54b086e-b125-4c3f-b297-4ef53b6d1e7b.svg)](https://wakatime.com/@f54b086e-b125-4c3f-b297-4ef53b6d1e7b)
 
 ## 😎 My GitHub Unwrapped 2022 🌟:
 https://github.com/kinshuk-code-1729/kinshuk-code-1729/assets/90320839/240f2b53-86b4-48db-aea9-94ea6bc8db19
 
 ## 🤩 My GitHub Unwrapped 2023 🤩🌟:
-https://github.com/kinshuk-code-1729/kinshuk-code-1729/assets/90320839/46a3dcf4-2b67-406c-a1ae-df28f0185f26-->
+https://github.com/kinshuk-code-1729/kinshuk-code-1729/assets/90320839/46a3dcf4-2b67-406c-a1ae-df28f0185f26
 
 ## 🌟 Hacktoberbest Achievements 🤩:
 [![An image of @kinshukcode1729's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kinshukcode1729)](https://holopin.io/@kinshukcode1729)
-
-<!--## 🏆 GitHub Trophies 🏆 : 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=kinshuk-code-1729&theme=radical"/>
-</a>
-</p>-->
 
 ## 🔥 My contribution :
 <p align="center"><a>
