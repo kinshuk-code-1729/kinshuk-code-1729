@@ -2,7 +2,7 @@
 <h1 align="center">Hi there👋, I'm Kinshuk Banerjee !</h1> <br>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Microservices+Developer.;I+am+a+Full+Stack+Developer.;I+am+proficient+in+troubleshooting.;I+am+a+Cloud+Enthusiast.)
-![Kinshuk](https://user-images.githubusercontent.com/90320839/146675569-70a8a11a-7563-4bf5-9d7e-1ddb5c086c9b.jpeg)
+![Kinshuk](https://github.com/user-attachments/assets/ab377a0f-a827-4b82-81d2-adeeb7736d22)
 
 <details open>
 <summary> <h2>About Me ✍</h2></summary>
