@@ -17,14 +17,18 @@
 - 👀 I’m interested in **Microservices Development, Cloud Computing and DevOps.**
 </details>
 
-- 📫 How to reach me :
+- 📫 Connect with me :
 
+  - <a href="https://x.com/Kinshuk_1729" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white"/></a>
   - <a href="mailto:kinshuk2002.king@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
   - <a href="https://www.youtube.com/@the_kinshuk_banerjee" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a>
   - <a href="https://www.linkedin.com/in/kinshuk-banerjee1729/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
-  - <a href="https://x.com/Kinshuk_1729" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white"/></a>
-  - <a href="https://instagram.com/the_kinshuk_banerjee" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/> </a>
-  - <a href="https://www.facebook.com/kinshuk.banerjee.90" target="_blank"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/> </a>
+  - <a href="https://instagram.com/the_kinshuk_banerjee" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
+  - <a href="https://www.facebook.com/kinshuk.banerjee.90" target="_blank"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
+  - <a href="https://www.hackerrank.com/profile/kinshuk_code1729" target="blank"> <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white"/></a>
+  - <a href="https://auth.geeksforgeeks.org/user/kinshuk_code_1729" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white"/></a>
+  - <a href="https://www.codechef.com/users/kinshuk_1729" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/CodeChef-4079DA?logo=codechef&logoColor=fff"/></a>
+  - <a href="https://www.leetcode.com/kinshuk-code-1729" target="blank"><img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06"/></a>
 
 ## ✨ Certifications ✨ :
 
@@ -56,16 +60,6 @@
 
 
 <!--END_SECTION:badges-->
-
-## ✨Platforms :
-<p align="left">
-<a href="https://www.hackerrank.com/profile/kinshuk_code1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kinshuk2002_king" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@kinshuk-code-1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kinshuk-code-1729" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kinshuk-code-1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kinshuk-code-1729" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kinshuk_code_1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kinshuk_code_1729" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kinshuk_1729" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kinshuk_1729" height="30" width="40" /></a>
-<!--<a href="https://www.cloudskillsboost.google/public_profiles/2df7da12-fe4f-4835-9253-350a993779c7" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> -->
-</p>
 
 ## 🛠Technological Stack 🛠:
 [![Bruno](https://img.shields.io/badge/Bruno-F4AA41?logo=Bruno&logoColor=black)](#)
@@ -106,6 +100,7 @@
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
@@ -140,7 +135,6 @@
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
