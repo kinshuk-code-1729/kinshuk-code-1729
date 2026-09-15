@@ -59,7 +59,7 @@
 ## ✨Connect with me :
 <p align="left">
 <a href="https://www.linkedin.com/in/kinshuk-banerjee1729/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kinshuk banerjee" height="30" width="40" /></a>
-<a href="https://twitter.com/intent/follow?screen_name=Kinshuk_1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kinshuk_1729" height="30" width="40" /></a>
+<a href="https://x.com/Kinshuk_1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kinshuk_1729" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@the_kinshuk_banerjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kinshukbanerjee1729" height="30" width="40" /></a>
 <a href="https://www.facebook.com/kinshuk.banerjee.90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kinshuk banerjee" height="30" width="40" /></a>
 <a href="https://instagram.com/the_kinshuk_banerjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="king_shook_1729" height="30" width="40" /></a>
@@ -67,7 +67,7 @@
 <a href="https://www.hackerearth.com/@kinshuk-code-1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kinshuk-code-1729" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kinshuk-code-1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kinshuk-code-1729" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kinshuk_code_1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kinshuk_code_1729" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kinshuk_code" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/kinshuk_1729" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kinshuk_1729" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kinshuk_1729" height="30" width="40" /></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/2df7da12-fe4f-4835-9253-350a993779c7" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="30"/> </a>
 </p>
 
