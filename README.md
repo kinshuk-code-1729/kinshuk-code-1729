@@ -16,17 +16,14 @@
 - 👀 I’m interested in **Microservices Development, Cloud Computing and DevOps.**
 </details>
 
-- 📫 How to reach me : 
-- <a href="mailto:kinshuk2002.king@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-- <a href="https://www.youtube.com/@the_kinshuk_banerjee" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/></a>
-- [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Kinshuk_1729)
-- [<img src="https://img.shields.io/badge/linkedin-430098?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kinshuk-banerjee1729/)
-- <a href="https://instagram.com/the_kinshuk_banerjee" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
-<!--- <a href="https://github.com/kinshuk-code-1729" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /> </a> -->
-- <a href="https://www.facebook.com/kinshuk.banerjee.90" target="_blank"> 
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a>
+- 📫 How to reach me :
+
+  - <a href="mailto:kinshuk2002.king@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
+  - <a href="https://www.youtube.com/@the_kinshuk_banerjee" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" target="_blank"/></a>
+  - <a href="https://www.linkedin.com/in/kinshuk-banerjee1729/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" target="_blank"/></a>
+  - <a href="https://x.com/Kinshuk_1729" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" target="_blank"/></a>
+  - <a href="https://instagram.com/the_kinshuk_banerjee" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /> </a>
+  - <a href="https://www.facebook.com/kinshuk.banerjee.90" target="_blank"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /> </a>
 
 ## ✨ Certifications ✨ :
 
