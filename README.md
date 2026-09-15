@@ -19,25 +19,25 @@
 - 📫 How to reach me :
 
   - <a href="mailto:kinshuk2002.king@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
-  - <a href="https://www.youtube.com/@the_kinshuk_banerjee" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" target="_blank"/></a>
-  - <a href="https://www.linkedin.com/in/kinshuk-banerjee1729/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" target="_blank"/></a>
-  - <a href="https://x.com/Kinshuk_1729" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" target="_blank"/></a>
-  - <a href="https://instagram.com/the_kinshuk_banerjee" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /> </a>
-  - <a href="https://www.facebook.com/kinshuk.banerjee.90" target="_blank"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /> </a>
+  - <a href="https://www.youtube.com/@the_kinshuk_banerjee" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a>
+  - <a href="https://www.linkedin.com/in/kinshuk-banerjee1729/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
+  - <a href="https://x.com/Kinshuk_1729" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white"/></a>
+  - <a href="https://instagram.com/the_kinshuk_banerjee" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/> </a>
+  - <a href="https://www.facebook.com/kinshuk.banerjee.90" target="_blank"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/> </a>
 
 ## ✨ Certifications ✨ :
 
 <!--START_SECTION:badges-->
 
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/Kinshuk-Banerjee-1729/652E06A868DDCF2?sharingId=562A5F6EBEFC7F34" title="Microsoft Certified: Azure Fundamentals">
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/Kinshuk-Banerjee-1729/652E06A868DDCF2?sharingId=562A5F6EBEFC7F34" title="Microsoft Certified: Azure Fundamentals" target="_blank">
     <img src="https://github.com/user-attachments/assets/b95bce1f-8079-4d3d-bcfb-fd207bcdbab2" alt="Microsoft Certified: Azure Fundamentals" width="200" height="200" title="Microsoft Certified: Azure Fundamentals">
 </a>
 
-<a href="https://www.credly.com/badges/957561ad-7654-40e0-bc8c-2a796d52fc99/public_url" title="AWS Academy Graduate - AWS Academy Cloud Foundations">
+<a href="https://www.credly.com/badges/957561ad-7654-40e0-bc8c-2a796d52fc99/public_url" title="AWS Academy Graduate - AWS Academy Cloud Foundations" target="_blank">
     <img src="https://github.com/user-attachments/assets/38cd925c-88ea-4776-ae0f-b1a25017c274" alt="AWS Academy Cloud Foundations" width="200" height="200" title="AWS Academy Graduate - AWS Academy Cloud Foundations">
 </a>
 
-<a href="https://www.credly.com/badges/4cfc91dd-8126-4606-9bea-08a623ae4d80/public_url" title="AWS Academy Graduate - AWS Academy Machine Learning Foundations">
+<a href="https://www.credly.com/badges/4cfc91dd-8126-4606-9bea-08a623ae4d80/public_url" title="AWS Academy Graduate - AWS Academy Machine Learning Foundations" target="_blank">
     <img src="https://github.com/user-attachments/assets/9fa763cb-5987-472a-9e0c-77bf49e6a46e" alt="AWS Academy Graduate - AWS Academy Machine Learning Foundations" width="200" height="200" title="AWS Academy Graduate - AWS Academy Machine Learning Foundations)">
 </a>
 
