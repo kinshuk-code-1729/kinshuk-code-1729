@@ -8,7 +8,7 @@
 <details open>
 <summary> <h2>About Me ✍</h2></summary>
     
-- 🔭 I’m currently working **as a enterprise application developer in TCS.**
+- 🔭 I’m currently working **as an Application Developer in TCS.**
 
 - 🌱 I’m currently learning **Cloud, Devops and Agentic AI Development.**
 
