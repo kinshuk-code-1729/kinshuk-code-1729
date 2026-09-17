@@ -206,9 +206,10 @@
     
 ## ❤ Other Stats 🗠 :
 
-![](https://img.shields.io/github/followers/kinshuk-code-1729?style=social)
-![](https://img.shields.io/github/stars/kinshuk-code-1729?style=social)
+![Followers](https://img.shields.io/github/followers/kinshuk-code-1729?style=social)
+![Stars](https://img.shields.io/github/stars/kinshuk-code-1729?style=social)
 [![wakatime](https://wakatime.com/badge/user/f54b086e-b125-4c3f-b297-4ef53b6d1e7b.svg)](https://wakatime.com/@f54b086e-b125-4c3f-b297-4ef53b6d1e7b)
+![Viewers](https://komarev.com/ghpvc/?username=kinshuk-code-1729&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 😎 My GitHub Unwrapped 2022 🌟:
 https://github.com/kinshuk-code-1729/kinshuk-code-1729/assets/90320839/240f2b53-86b4-48db-aea9-94ea6bc8db19
