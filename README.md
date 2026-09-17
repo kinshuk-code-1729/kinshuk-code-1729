@@ -25,10 +25,11 @@
   - <a href="https://www.linkedin.com/in/kinshuk-banerjee1729/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
   - <a href="https://instagram.com/the_kinshuk_banerjee" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
   - <a href="https://www.facebook.com/kinshuk.banerjee.90" target="_blank"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
-  - <a href="https://www.hackerrank.com/profile/kinshuk_code1729" target="blank"> <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white"/></a>
-  - <a href="https://auth.geeksforgeeks.org/user/kinshuk_code_1729" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white"/></a>
-  - <a href="https://www.codechef.com/users/kinshuk_1729" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/CodeChef-4079DA?logo=codechef&logoColor=fff"/></a>
-  - <a href="https://www.leetcode.com/kinshuk-code-1729" target="blank"><img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06"/></a>
+  - <a href="https://www.hackerrank.com/profile/kinshuk_code1729" target="_blank"> <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white"/></a>
+  - <a href="https://auth.geeksforgeeks.org/user/kinshuk_code_1729" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white"/></a>
+  - <a href="https://www.codechef.com/users/kinshuk_1729" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/CodeChef-4079DA?logo=codechef&logoColor=fff"/></a>
+  - <a href="https://www.leetcode.com/kinshuk-code-1729" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06"/></a>
+  - <a href="https://www.skills.google/public_profiles/2df7da12-fe4f-4835-9253-350a993779c7" target="_blank"><img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white"/></a>
 
 ## ✨ Certifications ✨ :
 
